@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "aspnetcore-runtime-7.0.5-win-x64 (1)", "aspnetcore-runtime-7.0.5-win-x64 (1).exe", "{060196F7-E7B5-4152-BFF1-0219F8630B17}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\13132\OneDrive - RCS Distribution and Retail\chainstate\aspnetcore-runtime-7.0.5-win-x64 (1).exe
+		RemoteMachine = SILVERBACKGOD
+		StartingDirectory = C:\Users\13132\OneDrive - RCS Distribution and Retail\chainstate
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060196F7-E7B5-4152-BFF1-0219F8630B17}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65DE8B87-EB9A-4E2B-AEA2-DA5F18F0BED1}
+	EndGlobalSection
+EndGlobal
